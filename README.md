@@ -1,2 +1,2 @@
 # NASsie
-Raspberry PI CM4 bases home NAS.
+Raspberry Pi CM4 based home NAS running OMV.
