@@ -1,5 +1,5 @@
 # NASsie
-Raspberry Pi CM4 based home NAS running OMV.
+## Raspberry Pi CM4 based home NAS running OMV.
 
 This program drives the LCD display on the NASsie NAS. It uses the 2 buttons to control what is displayed. It assumes LVM2 is used and there are 2 LVM volumes. It tries to be resource light by being written in C and only using external programs when required. In general, it tries to use files only for information.
 
