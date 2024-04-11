@@ -8,7 +8,7 @@ LCD routines in the LCD directory are from Waveshare.
 
 
  TODO: (things to fix or update)
- -New brighter color scheme for screens
- -Figure out why program takes 100% of CPU core?
- -Add more screens (USB stick unmount, etc. using 2nd button)
- -Get new LCD routines (ideally AdaFruit on Pi SPI)
+ - New brighter color scheme for screens
+ - Figure out why program takes 100% of CPU core?
+ - Add more screens (USB stick unmount, etc. using 2nd button)
+ - Get new LCD routines (ideally AdaFruit on Pi SPI)
