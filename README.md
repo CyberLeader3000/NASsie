@@ -1,6 +1,8 @@
 # NASsie
 ### Raspberry Pi CM4 based home NAS running OMV.
 
+![all_3_crop_IMG_8485](https://github.com/CyberLeader3000/NASsie/assets/51237374/0d9424c9-a41d-4ab5-8a6d-39c8d9aa885d)
+
 This program drives the LCD display on the NASsie NAS. It uses the 2 buttons to control what is displayed. It assumes LVM2 is used and there are 2 LVM volumes. It tries to be resource light by being written in C and only using external programs when required. In general, it tries to use files only for information.
 
 LCD routines in the LCD directory are from Waveshare.
@@ -21,8 +23,9 @@ sudo make install
 ```
 
 **LINKS**
-- 3D printed parts will be on www.printables.com soon.
+- 3D printed parts: https://www.printables.com/model/841429
 - Detailed building instructions will be on https://www.instructables.com/ soon.
+- Project Showcase in MagPi magazine: soon.
 
  **TODO: (things to fix or update)**
  - Add memory usage to CPU section
