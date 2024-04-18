@@ -17,11 +17,14 @@ wget https://github.com/joan2937/lg/archive/master.zip
 unzip master.zip
 cd lg-master
 sudo make install
-
 # You can refer to the official website for more: https://github.com/gpiozero/lg
 ```
 
- ** TODO: (things to fix or update) **
+**LINKS**
+- 3D printed parts will be on www.printables.com soon.
+- Detailed building instructions will be on https://www.instructables.com/ soon.
+
+ **TODO: (things to fix or update)**
  - Add memory usage to CPU section
  - New brighter color scheme for screens
  - Figure out why program takes 100% of CPU core?
