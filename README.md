@@ -22,6 +22,7 @@ sudo make install
 ```
 
  ** TODO: (things to fix or update) **
+ - Add memory usage to CPU section
  - New brighter color scheme for screens
  - Figure out why program takes 100% of CPU core?
  - Add more screens (USB stick unmount, etc. using 2nd button)
