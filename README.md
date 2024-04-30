@@ -24,7 +24,8 @@ sudo make install
 
 **LINKS**
 - 3D printed parts: https://www.printables.com/model/841429
-- Detailed building instructions will be on https://www.instructables.com/ soon.
+- Instructions for building the hardware on Hackster.io: https://www.hackster.io/cyberleader3000/nassie-raspberry-pi-home-network-attached-storage-hardware-38a258.
+- Instructions for installing the software on Hackster.io: https://www.hackster.io/cyberleader3000/nassie-raspberry-pi-home-network-attached-storage-software-a4a968
 - Project Showcase in MagPi magazine: soon.
 
  **TODO: (things to fix or update)**
